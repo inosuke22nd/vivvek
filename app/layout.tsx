@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Vivvek Singh - Portfolio",
   description:
-    "Full Stack Developer & DevOps Engineer passionate about building scalable applications and modern infrastructure.",
+    "Senior Executive at Spark Minda  ",
 };
 
 export default function RootLayout({
