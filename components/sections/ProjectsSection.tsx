@@ -61,9 +61,9 @@ const fadeInUp: Variants = {
 const certificates = [
   { title: "SparkMinda", image: "/certificates/Sparkminda.jpg" },
   { title: "Almonda", image: "/certificates/Almonda.jpg" },
-  { title: "LearnTube", image: "/certificates/LearnTube.jpg" },
+  { title: "LearnTube", image: "/certificates/Learntube.jpg" },
   { title: "Google", image: "/certificates/Google.jpg" },
-  { title: "GreatLearning", image: "/certificates/GreatLearning.jpg" },
+  { title: "GreatLearning", image: "/certificates/Greatlearning.jpg" },
 ];
 
 /* -------------------- COMPONENT -------------------- */
